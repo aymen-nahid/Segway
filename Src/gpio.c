@@ -3,6 +3,7 @@
   * File Name          : gpio.c
   * Description        : This file provides code for the configuration
   *                      of all used GPIO pins.
+  * Author             : Aymen NAHID
   ******************************************************************************
   * This notice applies to any and all portions of this file
   * that are not between comment pairs USER CODE BEGIN and
