@@ -2,6 +2,7 @@
   ******************************************************************************
   * File Name          : main.c
   * Description        : Main program body
+  * Author             : Aymen NAHID
   ******************************************************************************
   * This notice applies to any and all portions of this file
   * that are not between comment pairs USER CODE BEGIN and
@@ -108,7 +109,7 @@ int main(void)
 	MeSN_UART_Init();
   /* USER CODE BEGIN 2 */
 MeSN_Uart_PutString_Poll((uint8_t*)"PROJET ROBOT EQULIBRISTE\n");
-MeSN_Uart_PutString_Poll((uint8_t*)"Projet realisé par :- EL BOUMTIRI SAAD\n");
+MeSN_Uart_PutString_Poll((uint8_t*)"Projet realisÃ© par :- EL BOUMTIRI SAAD\n");
 MeSN_Uart_PutString_Poll((uint8_t*)"	            - EL HASSANI Salim\n");
 MeSN_Uart_PutString_Poll((uint8_t*)"	     	    - EL KHADRI Safouane\n");
   /* USER CODE END 2 */
